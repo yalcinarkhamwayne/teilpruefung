@@ -26,6 +26,9 @@ Habe bereits einen Schlüssel:
 
 - Die Schritte, die du zum lokalen Klonen des Repositorys, zum Konfigurieren von Git und zum Erstellen der initialen Commits durchgeführt hast.
 
+- Die Schritte, die du zum Erstellen des "feature"-Branches, zum Hinzufügen einer neuen Datei zu diesem Branch und zum Committen der Änderungen durchgeführt hast.
+
+- Die Schritte, die du zum Mergen des "feature"-Branches in den "master"-Branch und zum Beheben des dabei auftretenden Merge-Konflikts durchgeführt hast.
 Teil 1 von Aufgabe C:
 
 ![alt text](assets/localrepoandworkflow.png)
@@ -40,8 +43,8 @@ AFTER:
 
 ![alt text](assets/after.png)
 
-- Die Schritte, die du zum Erstellen des "feature"-Branches, zum Hinzufügen einer neuen Datei zu diesem Branch und zum Committen der Änderungen durchgeführt hast.
 
-- Die Schritte, die du zum Mergen des "feature"-Branches in den "master"-Branch und zum Beheben des dabei auftretenden Merge-Konflikts durchgeführt hast.
 
 - Verwende Screenshots oder Code-Blöcke, um deine Erklärungen zu verdeutlichen.
+
+erledigt
