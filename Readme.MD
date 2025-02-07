@@ -30,6 +30,16 @@ Teil 1 von Aufgabe C:
 
 ![alt text](assets/localrepoandworkflow.png)
 
+Teil 2 von Aufgabe C:
+
+BEFORE:
+
+![alt text](assets/before.png)
+
+AFTER:
+
+![alt text](assets/after.png)
+
 - Die Schritte, die du zum Erstellen des "feature"-Branches, zum Hinzufügen einer neuen Datei zu diesem Branch und zum Committen der Änderungen durchgeführt hast.
 
 - Die Schritte, die du zum Mergen des "feature"-Branches in den "master"-Branch und zum Beheben des dabei auftretenden Merge-Konflikts durchgeführt hast.
