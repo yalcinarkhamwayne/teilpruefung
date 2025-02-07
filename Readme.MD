@@ -8,17 +8,20 @@
 
 - Die Schritte, die du zum Einrichten des GitHub-Repositorys "MeinProjekt" durchgeführt hast.
 
-1. ![alt text](assets/repo.png)
+![alt text](assets/repo.png)
 
-2. ![alt text](assets/newrepo.png)
+![alt text](assets/newrepo.png)
 
-3. ![alt text](assets/reposettings.png)
+![alt text](assets/reposettings.png)
 
-4. ![alt text](assets/repourl.png)
+![alt text](assets/repourl.png)
 
 - Die Schritte, die du zum Erstellen eines SSH-Schlüssels (falls du keinen bereits hattest) durchgeführt hast.
 
-1. ![alt text](assets/ssh.png)
+Habe bereits einen Schlüssel:
+![alt text](assets/ssh.png)
+
+
 
 - Die Schritte, die du zum lokalen Klonen des Repositorys, zum Konfigurieren von Git und zum Erstellen der initialen Commits durchgeführt hast.
 
