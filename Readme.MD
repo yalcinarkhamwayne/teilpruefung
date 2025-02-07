@@ -19,6 +19,7 @@
 - Die Schritte, die du zum Erstellen eines SSH-Schlüssels (falls du keinen bereits hattest) durchgeführt hast.
 
 Habe bereits einen Schlüssel:
+
 ![alt text](assets/ssh.png)
 
 
