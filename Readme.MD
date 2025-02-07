@@ -26,7 +26,9 @@ Habe bereits einen Schlüssel:
 
 - Die Schritte, die du zum lokalen Klonen des Repositorys, zum Konfigurieren von Git und zum Erstellen der initialen Commits durchgeführt hast.
 
-1. 
+Teil 1 von Aufgabe C:
+
+![alt text](assets/localrepoandworkflow.png)
 
 - Die Schritte, die du zum Erstellen des "feature"-Branches, zum Hinzufügen einer neuen Datei zu diesem Branch und zum Committen der Änderungen durchgeführt hast.
 
